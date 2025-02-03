@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Akz94
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Salut ! Moi, c'est Akz, un passionné de jeux vidéo 🎮, d'informatique 💻 et de sport 🏋️. Toujours curieux d'apprendre et d'explorer de nouvelles technologies, je passe mon temps entre le gaming, le développement et l'entraînement physique.
 
-<!---
-Akz94/Akz94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 Passions principales :
+
+🎮 Jeux vidéo : Exploration, compétition et découvertes !
+💻 Informatique : Développement, hardware, logiciels et bidouilles tech.
+🏋️ Sport : Musculation, fitness et dépassement de soi.
+🔹 Ce que je fais ici :
+
+Partager mes projets et expériences.
+Apprendre et progresser en codage.
+Échanger avec des passionnés !
+📫 Me contacter ? Passe par GitHub ou mes autres réseaux !
